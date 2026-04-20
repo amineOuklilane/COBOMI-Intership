@@ -1,4 +1,7 @@
 # 🥤 Industrial Thermal Automation & Energy Optimization
+<p align="center">
+  <img src="Assets/Screenshot 2024-08-04 172134.png" width="32%" />
+  </p>
 **Technical Internship | ECCBC (Equatorial Coca-Cola Bottling Company) - Morocco**
 **Field: Industrial Automation, Thermal Engineering & Energy Management**
 
