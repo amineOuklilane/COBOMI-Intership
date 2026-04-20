@@ -66,7 +66,6 @@ The implementation included a complete study of the electrical control cabinets 
 The system follows a closed-loop regulation strategy to maintain constant output temperatures despite fluctuations in raw material input.
 
 <p align="center">
-  <img src="Assets/Screenshot 2024-08-04 172134.png" width="48%" />
   <img src="Assets/Screenshot 2024-08-09 011735.png" width="48%" />
 </p>
 <p align="center"><i>Figure 11 & 12: Detailed thermal process flow and functional control logic.</i></p>
